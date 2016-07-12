@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrilogyBuySellTrade</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="buyCar">BUY CAR</string>
+    <string name="sellCar">SELL CAR</string>
+    <string name="tradeGoods">TRADE GOODS</string>
+    <string name="action_settings">Settings</string>
+</resources>
